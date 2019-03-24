@@ -1,4 +1,4 @@
-""" An implementation of the random forest regressor. 
+""" My implementation of the random forest regressor. 
 Created with guidance from fastai's Introduction to Machine Learning. 
 See my_random_forest.ipynb for example use, testing and development. 
 
